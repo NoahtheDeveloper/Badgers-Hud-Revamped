@@ -20,4 +20,6 @@
 > - Auto Notify includes a cool sound alert
 > - Discord Integration go to the server.lua line 22 for the DiscordWebhook Insert. This insert logs when the status is changed. 
 > - PT now has an Auto Notify Message too.
-> - I basically did this by myself and Grav assisted me with the Discord Part, im good with you guys using it as long as credit isnt given to someone else.
+> 
+> 
+> - Thanks Grav for assisting on Discord Part. 
