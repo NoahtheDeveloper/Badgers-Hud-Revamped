@@ -13,7 +13,7 @@
 > https://github.com/JaredScar
 > 
 > 
-> ![alt text](https://cdn.discordapp.com/attachments/707792578141225052/796786839225761852/unknown.png)
+> ![alt text](https://cdn.discordapp.com/attachments/727327933080797245/798241165886357504/ezgif-3-38a8c29a3cbd.gif)
 > 
 > **Features:** 
 > - Auto Notify when status gets changed
