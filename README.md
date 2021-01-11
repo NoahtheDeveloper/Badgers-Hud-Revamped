@@ -14,3 +14,10 @@
 > 
 > 
 > ![alt text](https://cdn.discordapp.com/attachments/707792578141225052/796786839225761852/unknown.png)
+> 
+> **Features:** 
+> - Auto Notify when status gets changed
+> - Auto Notify includes a cool sound alert
+> - Discord Integration go to the server.lua line 22 for the DiscordWebhook Insert. This insert logs when the status is changed. 
+> - PT now has an Auto Notify Message too.
+> - I basically did this by myself and Grav assisted me with the Discord Part, im good with you guys using it as long as credit isnt given to someone else.
